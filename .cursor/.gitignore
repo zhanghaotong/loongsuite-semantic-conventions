@@ -1,0 +1,5 @@
+# Cursor settings that should remain local to each developer
+# (Currently keeping this minimal - most .cursor/ content should be shared)
+
+# Example: If you add local-only configuration files in the future, list them here
+# local-settings.json

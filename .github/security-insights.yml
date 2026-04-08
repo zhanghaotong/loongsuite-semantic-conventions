@@ -1,0 +1,21 @@
+header:
+  schema-version: 2.0.0
+  last-updated: '2026-04-08'
+  last-reviewed: '2026-04-08'
+  project-si-source: https://github.com/alibaba/loongsuite-semantic-conventions
+
+repository:
+  url: https://github.com/alibaba/loongsuite-semantic-conventions
+  status: active
+  accepts-change-request: true
+  accepts-automated-change-request: true
+  core-team:
+    - name: Steve Rao
+      affiliation: Alibaba
+    - name: Huxing Zhang
+      affiliation: Alibaba
+    - name: Minghui Zhang
+      affiliation: Alibaba
+  license:
+    url: https://github.com/alibaba/loongsuite-semantic-conventions/blob/main/LICENSE
+    expression: Apache-2.0

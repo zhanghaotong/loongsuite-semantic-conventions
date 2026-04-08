@@ -1,0 +1,16 @@
+#####################################################
+#
+# Code ownership for LoonGSuite semantic conventions repository
+#
+#####################################################
+#
+# This repository is maintained by the Alibaba Observability Team.
+# For the list of maintainers, please refer to:
+# https://github.com/alibaba/loongsuite-semantic-conventions
+#
+# Learn about CODEOWNERS file format:
+#  https://help.github.com/articles/about-code-owners
+#
+
+# All files in this repository are owned by the project maintainers
+# Reviews and approvals are managed by the Alibaba Observability Team
